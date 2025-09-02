@@ -1,6 +1,2 @@
-spring:
-  application:
-    name: spring-config-client-service
-
 server:
   port: 9100
