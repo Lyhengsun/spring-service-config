@@ -15,4 +15,4 @@ spring:
   #       dialect: org.hibernate.dialect.PostgreSQLDialect
 
 server:
-  port: 9100
+  port: '{cipher}1e2397a57603d91892dbec541721c53e01a09338d6d4e74e2ee06e33dbd21968'
